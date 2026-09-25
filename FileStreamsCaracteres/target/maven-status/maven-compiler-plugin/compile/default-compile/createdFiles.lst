@@ -1,0 +1,6 @@
+com\mycompany\filestreamscaracteres\App.class
+com\mycompany\filestreamscaracteres\ControlLecturaEscrituraFXML.class
+com\mycompany\filestreamscaracteres\PrimaryController.class
+com\mycompany\filestreamscaracteres\SecondaryController.class
+module-info.class
+com\mycompany\filestreamcaracteres\modelo\LecturaEscritura.class
